@@ -1,2 +1,2 @@
 # new_project
-code for calculating sum of an array
+code for counting frequency of word count in a string using C language.
